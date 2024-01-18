@@ -1,4 +1,4 @@
-package com.handson.tinyurl;
+package com.alonr.tinyurl;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

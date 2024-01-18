@@ -1,4 +1,4 @@
-package com.handson.tinyurl.config;
+package com.alonr.tinyurl.config;
 
 
 import org.springframework.context.annotation.Bean;

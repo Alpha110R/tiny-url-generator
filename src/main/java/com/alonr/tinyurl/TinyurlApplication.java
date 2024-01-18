@@ -1,4 +1,4 @@
-package com.handson.tinyurl;
+package com.alonr.tinyurl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
