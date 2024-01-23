@@ -41,7 +41,7 @@ public class Redis {
 
     public boolean hasKey(String key){
         try {
-            return redisTemplate.hasKey(key);
+            return Boolean.TRUE.equals(redisTemplate.hasKey(key));
         } catch (Exception e) {
             e.printStackTrace();
             return false;
